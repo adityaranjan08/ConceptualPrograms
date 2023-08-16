@@ -12,7 +12,7 @@ public class JavaLoops1 {
 
         bufferedReader.close();
         for(int i=1;i<=10;i++){
-            System.out.println(N+" x "+i+" = "+N*i);
+            System.out.println(N+" x "+i+" = "+N*i); //commit
             
         }
     }
